@@ -1,6 +1,6 @@
 #Use a for loop to generate and print the multiplication table for a given number.
 
-number = int(input("Enter a number to see its multiplication: "))
+number = int(input("Enter a number to see its multiplication table: "))
 
 counter = 1
 
